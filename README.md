@@ -9,10 +9,11 @@ To create tasks the user must register and log in
 
 <img src="images/login.jpg" width="600">
 
-When logged in the user can see his Todos:
+A logged in user can see all their todos or only those of a selected category:
 
 <img src="images/todo.jpg" width="600">
 
 
 A logged in user can add new Todos:
+
 <img src="images/add_todo.jpg" width="600">
