@@ -2,6 +2,7 @@ from rest_framework import serializers
 from to_do.api_todos.models import Todo, Category
 
 
+
 class TodoListSerializer(serializers.ModelSerializer):
     class Meta:
         model = Todo
